@@ -1,1 +1,3 @@
-# decentralized-app › . md git INIT
+A Simple Stock Price App using Streamlit
+
+This Dashboard shows Closing prices and the volume of Google stock (GOOGL).
